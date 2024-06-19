@@ -1,5 +1,7 @@
 Este projeto tem como objetivo:
 
+Vídeo explicativo do projeto: https://www.youtube.com/watch?v=K6VxrooOfT0
+
 ° FAZER UMA ANÁLISE EXPLORATÓRIA 
 ° TREINAR UM MODELO DE ML
 
